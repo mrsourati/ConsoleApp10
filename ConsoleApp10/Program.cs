@@ -11,7 +11,7 @@ namespace Loop
             {
                 Console.WriteLine("C# For Loop: Iteration {0}", i);
             }
-            Console.WriteLine("Kollar om ändringen funkar");
+            Console.WriteLine("Kollar om ändringen funkar igen");
         }
     }
 }
